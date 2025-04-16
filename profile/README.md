@@ -46,15 +46,26 @@ I'm a passionate AWS Data & DevOps Engineer from Connecticut, USA 🇺🇸, curr
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=default)
+![GitHub Stats showing contributions and activity](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=default)
 
 ---
 
-## 📂 Highlight Projects
+## 📂 Organization Repositories
 
-- 🔹 [**CloudFormation CI/CD GitHub Reusable Workflows**](https://github.com/subhamay-bhattacharyya-gha/cfn-ci-reusable-wf) – Automate AWS stack validation, linting, security scans, and preview deployments
-- 🔹 [**GitHub Branch Automation using Issues**](https://github.com/subhamay-bhattacharyya-gha/issue-based-branch-creator) – Automates branch creation with naming conventions tied to GitHub issues
-- 🔹 [**AWS Glue Workflows with Step Functions**](https://github.com/subhamay-bhattacharyya-gha/glue-workflow-stepfunction) – Serverless data pipelines using Glue, Step Functions, and Lambda
+## GitHub Actions
+
+|Sr#|Repository|Description|Action Type|Status|
+|--  |-- |-- |-- | --|
+|1|list-updated-files-action| List the files modified since the last commit.|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|2|scan-aws-services-action|Scan for the AWS Services (Lambda / Lambda Layer / Glue / State Machine) used in the repository.|JavaScript|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|3|check-environments-action|Check Available GitHub Environments|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|4|branch-issue-action| Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI.|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|5|create-branch-action|GitHub Composite Action - Auto Create Feature Branch|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|6|cfn-validate-scan-action|Validate and Scan CloudFormation template|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|7|checkov-report-action|Print Checkov Scan Report|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|8|cfn-delete-stack-action|Delete CloudFormation Stack|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|9|cfn-create-stack-action|Creates a CloudFormation Stack|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|10|cfn-parameters-action|Prepare CloudFormation Stack Creation Parameters|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 
 ---
 
