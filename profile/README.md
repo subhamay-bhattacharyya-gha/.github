@@ -4,9 +4,11 @@
 
 I'm a passionate AWS Data & DevOps Engineer from Connecticut, USA 🇺🇸, currently working at **Capgemini America**. I specialize in building scalable, secure, and automated cloud infrastructure using **AWS**, **Terraform**, **CloudFormation**, and **GitHub Actions**. I also enjoy mentoring and contributing to open-source projects, especially around CI/CD, serverless, and cloud security.
 
-![Subhamay Cloudwork's's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&theme=radical)
+![Subhamay's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&count_private=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsubhamay&show_icons=true&theme=radical)
+
+![GitHub chart](https://ghchart.rshah.org/bsubhamay)
 
 - 🔭 I'm currently working as a Senior Manager at Capgemni for a legacy to AWS cloud data migration project.
 
