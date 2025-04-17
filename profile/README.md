@@ -67,7 +67,7 @@ I'm a passionate AWS Data & DevOps Engineer from Connecticut, USA 🇺🇸, curr
 |9|cfn-create-stack-action|Creates a CloudFormation Stack|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 |10|cfn-parameters-action|Prepare CloudFormation Stack Creation Parameters|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 |11|cfn-lint-action|CloudFormation Linter|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|12|cfn-validate-action|CloudFormation Validate|Composite|![In Progress](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|12|cfn-validate-action|CloudFormation Validate|Composite|![Complete](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 
 ---
 
